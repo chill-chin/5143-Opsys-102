@@ -1,3 +1,6 @@
-# 5143-Opsys-102
+# Chintan Mehta
 
-Chintan's repo for CMPS 5143 (Advanced Operating Systems)
+### Repo: CMPS 5143 (Advanced Operating Systems)
+### Email: cmehta623@gmail.com
+
+
